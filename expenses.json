@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "date": "2026-09-30",
+        "category": "Food",
+        "description": "lunch at college",
+        "amount": 100.0,
+        "payment_method": "UPI"
+    },
+
+  {
+    "id": 1,
+    "date": "2026-09-30",
+    "category": "Food",
+    "description": "Lunch",
+    "amount": 250,
+    "payment_method": "UPI"
+  },
+
+  {
+    "id": 2,
+    "date": "2026-09-30",
+    "category": "Travel",
+    "description": "Bus",
+    "amount": 50,
+    "payment_method": "Cash"
+  }
+]
